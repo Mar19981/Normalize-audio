@@ -1,0 +1,2 @@
+LIBRARY NormalizeAsm
+EXPORTS normalize
